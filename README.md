@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Your Name**
 
 - GitHub: [@alin00r](https://github.com/alin00r)
-- LinkedIn: [alinourr](linkedin.com/in/alinourr/en/)
+- LinkedIn: [alinourr](https://linkedin.com/in/alinourr/en/)
 - Email:alymohameedaly@gmail.com
 
 ## 🙏 Acknowledgments
